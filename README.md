@@ -1,5 +1,7 @@
 # Geoliving - Building
 <img width="1280" height="640" alt="ssb-geoliving-wp5-buildings-social-preview" src="https://github.com/user-attachments/assets/b0e2c0f0-2a9a-4318-92e9-6ecf74a18102" />
+# Development of open source based building indicators
+<img width="1280" height="640" alt="ssb-geoliving-wp5-buildings-social-preview" src="https://github.com/user-attachments/assets/bd105d8c-da5a-4090-80dd-36923c490b83" />
 
 ## Background
 Buildings in Europe play a crucial role in living conditions, environmental impact, and energy consumption. Housing quality varies across regions, with older buildings in many cities requiring modernization to meet modern living standards. In some areas, poor insulation and outdated infrastructure contribute to energy inefficiency and higher living costs.
@@ -26,6 +28,24 @@ C. Safety and Social Environment
 D. Urban Form and Density
 
 In addition to mapping availability of these broad characteristics, we also plan on looking into Integrated Indicators that combine building and environmental data. For this the use of GIS is planned, and here are some examples on methods:
+## Objectives
+In this work package we focus on building-related statistics tied to living conditions encompass both the characteristics of the buildings themselves and the qualities of their surrounding environment. Below are examples grouped into these two broad categories:
+
+Characteristics of the Buildings	
+These statistics describe the physical, functional, and regulatory aspects of buildings that directly influence living conditions:	
+A. Structural and Physical Attributes	
+B. Housing Units Within Buildings	
+C. Utilities and Facilities	
+ 	
+Characteristics of the Surroundings
+The living conditions are also significantly affected by the environment surrounding the buildings:
+A. Proximity and Accessibility
+B. Environmental Quality
+C. Safety and Social Environment
+D. Urban Form and Density
+
+In addition to mapping availability of these broad characteristics, we also plan on looking into Integrated Indicators that combine building and environmental data. 
+For this the use of GIS is planned, and here are some examples on methods:
 
 A. Map Regional Living Conditions
 B. Hotspot Analysis
@@ -33,6 +53,8 @@ C. Urban vs. Rural Disparities
 D. Accessibility and Surroundings
 
 Statistics Norway have point based geodata for buildings and geodata with time series stretching back to around year 2000.If judged feasible we plan to enhance time series of historical population and housing data.
+Statistics Norway have point based geodata for buildings and geodata with time series stretching back to around year 2000. 
+If judged feasible we plan to enhance time series of historical population and housing data.
 
 ## Expected outcomes and deliveries
 Expected outcomes are inventories of existing building statistics at different geographical levels and likewise inventories of available sources of statistics with quality assessments. These outcomes will be parts of deliveries of this work package. Where relevant, outcomes from this WP be included into deliveries in WP2.
