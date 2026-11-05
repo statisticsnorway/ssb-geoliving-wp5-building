@@ -1,3 +1,13 @@
+# ssb-geoliving-wp5-building
+
+3
+
+Opprettet av:
+Vilni Verne Holst Bloch <vvh@ssb.no>
+
+---
+
+Legg inn beskrivelse av prosjektet her.
 # GeoLiving WP5 building
 Project 101261280 - 2025-NO-GEOS-GeoLiving, Statistics Norway.
 Co-funded by the European Union.
