@@ -34,7 +34,6 @@ D. Accessibility and Surroundings
 Statistics Norway have point based geodata for buildings and geodata with time series stretching back to around year 2000.If judged feasible we plan to enhance time series of historical population and housing data.
 
 ## Expected outcomes and deliveries: 
-
 Statistics Norway have point based geodata for buildings and geodata with time series stretching back to around year 2000.If judged feasible we plan to enhance time series of historical population and housing data.
 Statistics Norway have point based geodata for buildings and geodata with time series stretching back to around year 2000. 
 If judged feasible we plan to enhance time series of historical population and housing data.
